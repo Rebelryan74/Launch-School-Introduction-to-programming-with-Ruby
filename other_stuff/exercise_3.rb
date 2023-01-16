@@ -1,0 +1,1 @@
+# exception handling allows us to predict when a piece of code is going to stop the program from running and we can get ahead of that by using exception handling.
